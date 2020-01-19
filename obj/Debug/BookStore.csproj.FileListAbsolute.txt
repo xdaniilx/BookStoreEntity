@@ -1,0 +1,38 @@
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\bin\Debug\BookStore.exe.config
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\bin\Debug\BookStore.exe
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\bin\Debug\BookStore.pdb
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormAuthorization.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.exe
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.pdb
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormSales.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormGenresPublishingAuthors.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormWarehouseman.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormAddArrival.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormAddBook.resources
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.csproj.ResolveComReference.cache
+F:\Учёба\Курсовой проект.Книжный магазин\BookStore\obj\Debug\BookStore.FormReport.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\BookStore.exe
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.csproj.ResolveComReference.cache
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormAddArrival.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormAddBook.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormReport.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormAuthorization.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormGenresPublishingAuthors.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormSales.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.FormWarehouseman.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.exe
+C:\Users\Daniil\Desktop\BookStoreEntity\BookStore\obj\Debug\BookStore.pdb
