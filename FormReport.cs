@@ -74,7 +74,13 @@ namespace BookStore
             var popularBook = (from book in ClassGetContext.context.Books
                                join sellbook in ClassGetContext.context.SellBooks on book.idBook equals sellbook.idBook
                                join sell in ClassGetContext.context.Sells on sellbook.idSell equals sell.idSell
-                               select new {book.idBook, book.name, sellbook.quantity}).FirstOrDefault();
+                               group sellbook by new {book.idBook, book.name} into sumOnBook
+                               select new 
+                               { 
+                                   sumOnBook.Key.idBook, 
+                                   sumOnBook.Key.name, 
+                                   P = sumOnBook.Sum(c => c.quantity),
+                               }).FirstOrDefault();
             
 
             //using (SqlConnection connection = ClassConnection.SqlConnection())
